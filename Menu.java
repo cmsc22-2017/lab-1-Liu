@@ -56,7 +56,9 @@ interface IMenu{}
  
  
  class ExampleMenu{
- 
+  
+  ExampleMenu(){}
+   
   MenuInfo soupA = new MenuInfo("Sabaw", 5);
   MenuInfo soupB = new MenuInfo("Nilaga", 4);
   
